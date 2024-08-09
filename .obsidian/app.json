@@ -1,0 +1,18 @@
+{
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "newFileFolderPath": "docs",
+  "promptDelete": false,
+  "showUnsupportedFiles": true,
+  "spellcheck": false,
+  "attachmentFolderPath": "./attachments",
+  "newLinkFormat": "shortest",
+  "useMarkdownLinks": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

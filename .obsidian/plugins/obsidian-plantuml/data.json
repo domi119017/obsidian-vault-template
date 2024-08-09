@@ -1,0 +1,11 @@
+{
+  "server_url": "",
+  "header": "",
+  "debounce": 3,
+  "localJar": "",
+  "javaPath": "java",
+  "dotPath": "",
+  "defaultProcessor": "png",
+  "cache": 60,
+  "exportPath": ""
+}
